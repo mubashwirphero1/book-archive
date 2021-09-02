@@ -1,0 +1,14 @@
+/* Hiding the error massage */
+#error-throw{
+    display: none;
+}
+
+/* Hiding the search result number */
+#search-result-container{
+    display: none;
+}
+
+/* Hiding Bootstrap spinner */
+#loading{
+    display: none;
+}
